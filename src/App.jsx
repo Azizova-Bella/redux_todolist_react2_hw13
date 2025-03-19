@@ -91,7 +91,7 @@ export default function App() {
 
 	return (
 		<div className='container'>
-			<h2>User Management</h2>
+			<h2>Redux TodoList</h2>
 
 			<Button
 				variant='contained'
